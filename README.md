@@ -7,7 +7,7 @@ Hide tweets | Skip mute lists | Uses OpenAI
 
 ## Install
 
-- The Chrome Extension is currently under review - submitted on 19th May 2023.
+- The Chrome Extension is currently under review - [track status here](https://github.com/paramaggarwal/clean-twitter/issues/1).
 - Meanwhile you can [install the extension manually](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/).
 
 ## Topics
